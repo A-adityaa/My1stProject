@@ -1,4 +1,4 @@
 # My1stProject
 Author :- Aditya. R .Prajapati 
 <br>
-This is my 1st gut repo
+This is my 1st git repo
